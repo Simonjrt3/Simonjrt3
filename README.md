@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Simonjrt3
 - 👀 I’m interested in AI and machine learning research
-- 🌱 I’m currently learning data structures and algorithms
 - 📫 How to reach me: simonjeruto@gmail.com
 - 😄 Pronouns: he/him
 
