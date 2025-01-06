@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Simonjrt3
-- 👀 I’m interested in AI and machine learning research
+- 👀 I’m interested in AI and machine learning research and policy
 - 📫 How to reach me: simonjeruto@gmail.com
 - 😄 Pronouns: he/him
 
